@@ -4,7 +4,7 @@ Repositório com testes de performance automatizados desenvolvidos com a ferrame
 
 🔗 Repositório: https://github.com/Wedney18/banco-api-performance
 
-===
+---
 
 ## 📌 Introdução
 
