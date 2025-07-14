@@ -10,7 +10,7 @@ Repositório com testes de performance automatizados desenvolvidos com a ferrame
 
 Este projeto tem como objetivo simular diferentes cargas e cenários de uso para a API do banco, avaliando seu desempenho e identificando possíveis gargalos. Os testes são escritos com foco em modularidade, organização por contexto e reutilização de modelos de dados.
 
-===
+---
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -19,7 +19,7 @@ JavaScript (ES6)
 - [GJSON] (https://github.com/tidwall/gjson) – Para extração de dados em respostas JSON.
 - Variáveis de ambiente para configuração dinâmica (ex: `BASE_URL`).
 
-===
+---
 
 ## 📁 Estrutura do Repositório
 
@@ -33,7 +33,7 @@ banco-api-performance/
 └── README.md           # Este documento
 ```
 
-===
+---
 
 ## 🗂️ Objetivo de Cada Grupo de Arquivos
 
@@ -43,7 +43,7 @@ banco-api-performance/
 **`utils/`**: Funções utilitárias reutilizáveis.
 **`config/`**: Arquivos de configuração de variáveis de ambiente
 
-===
+---
 
 ## 💻 Instalação e Execução
 
